@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^'[[:alapha:]]' /etc/ssh/sshdi_config
+grep '^'[[:alapha:]]' /etc/ssh/sshd_config
